@@ -9,7 +9,7 @@ planejamento de testes, definição de critérios de aceitação e validação d
 Pós-graduado em Engenharia de Software com ênfase em Qualidade e Testes de Software e também MBA em Gestão
 da Qualidade de Software.
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/miguel-alves-b19688206/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Miguel%20Alves-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
